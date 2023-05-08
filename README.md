@@ -6,4 +6,4 @@ The main contributions of our work are as follows:
 -- We also show that the stochastic BayesFlow outperforms BayesFlow and BNN in terms of the accuracy and precision of parameter identification, even with noisy observed data.
 The vehicle model is referred to [CommonRoad](https://commonroad.in.tum.de/). The generated data is saved in /data.
 We adapt the original [FrEIA](https://github.com/vislearn/FrEIA) and the original [conditionalSNF](https://github.com/PaulLyonel/conditionalSNF) to our use case.
-The BayesFlow model is implemented in the script Bayesian_conditional_normalizing_flow_LSTNet_dropout_cinn.py and the stochastic BayesFlow model is implemented in the script Bayesian_stochastic_conditional_normalizing_flow_MCMC.py
+The BayesFlow model is implemented in the script <Bayesian_conditional_normalizing_flow_LSTNet_dropout_cinn.py> and the stochastic BayesFlow model is implemented in the script <Bayesian_stochastic_conditional_normalizing_flow_MCMC.py>
